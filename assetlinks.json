@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.live.earth.map.satellite.map.street.view.gps.navigation",
+      "sha256_cert_fingerprints": [
+        "47:45:99:2F:F9:39:90:F1:01:F5:AE:EF:1E:48:27:C7:64:FF:2D:C2:8E:C4:2C:DC:6E:2A:05:42:26:C0:0A:95"
+      ]
+    }
+  }
+]
